@@ -6,3 +6,6 @@ elif n < 0:
 else:
     print("n is zero")
         
+a = input("Number: ")
+if a > n:
+    print("a>n")
