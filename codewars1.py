@@ -9,7 +9,7 @@
 
 n = str(input("Your name: "))
 
-if n[0] == "R" or "r":
+if n[0] == "R" or n[0] == "r":
     print (f"{n} plays banjo")
 
 else:
